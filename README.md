@@ -18,7 +18,7 @@ Full Cycle Rocks!!
 1. Clone o repositório:
 
    ```bash
-   git clone <URL-do-repositorio>
+   git clone https://github.com/jonasmzsouza/fc-docker-go.git
    cd fc-docker-go
    ```
 
